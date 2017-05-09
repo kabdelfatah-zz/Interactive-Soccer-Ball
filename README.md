@@ -1,6 +1,6 @@
-# Interactive-Socccer-Ball
+# Interactive-Soccer-Ball
 
-1-OpenGL C++ codes for interactive Socccer Ball.
+1-OpenGL C++ codes for interactive Soccer Ball.
 
 2-By hitting the 'h' you can kick the ball to move in a straight line on the grass-land field. (you can notice that the ball motion will start with high speed then this speed will decrease until the ball stops.)
 
